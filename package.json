@@ -1,0 +1,21 @@
+{
+    "name": "matte-dark-theme",
+    "displayName": "Matte Dark Theme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Matte Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Matte Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
