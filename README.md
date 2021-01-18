@@ -1,13 +1,40 @@
-# README
-## This is the README for your extension "matte-dark-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+<h1 align="center" >
+    <img alt="Dark Matte Theme" src="icon.png" width="200"  />
+    <p>HI Dev's</p>
+</h1>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+# Dark Matte Theme
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+A matte dark theme just for you.
 
-**Enjoy!**
+## Color Themes
+
+### Light green theme
+
+![VSCode - MAtte Dark Theme](img/VSCodeTheme.png)
+
+## Screenshots
+
+---
+
+![VSCode - MAtte Dark Theme - HTML](img/demo-img1.png)
+
+---
+
+![VSCode - MAtte Dark Theme - CSS](img/demo-img2.png)
+
+---
+
+![VSCode - MAtte Dark Theme - CSS](img/demo-img3.png)
+
+---
+
+![VSCode - MAtte Dark Theme - JS](img/demo-img4.png)
+
+---
+
+![VSCode - MAtte Dark Theme -README](img/readme.png)
+
+## Thank you for using **Matte Dark Theme**
+
+More coming soon

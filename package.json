@@ -1,21 +1,37 @@
 {
     "name": "matte-dark-theme",
     "displayName": "Matte Dark Theme",
-    "description": "",
-    "version": "0.0.1",
+    "description": "Matte Dark Theme created by devs, for devs.",
+    "publisher": "HI Dev's",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.52.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com"
+    },
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#E5E5E5",
+        "theme": "dark"
     },
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "color-theme",
+        "Dark Theme",
+        "Dark",
+        "Matte Theme",
+        "Matte",
+        "Theme"
+    ],
     "contributes": {
-        "themes": [
-            {
-                "label": "Matte Dark Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Matte Dark Theme-color-theme.json"
-            }
-        ]
+        "themes": [{
+            "label": "Matte Dark Theme",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Matte Dark Theme-color-theme.json"
+        }]
     }
 }
