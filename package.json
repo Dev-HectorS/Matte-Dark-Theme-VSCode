@@ -2,7 +2,7 @@
     "name": "matte-dark-theme",
     "displayName": "Matte Dark Theme",
     "description": "Matte Dark Theme created by devs, for devs.",
-    "publisher": "HI Dev's",
+    "publisher": "HIDevs",
     "version": "1.0.0",
     "engines": {
         "vscode": "^1.52.0"
